@@ -1,12 +1,16 @@
 
 ---
 <div>
-  ### About Me:
+  
+  <h3>About Me:</h3>
+  
   I am a college student, from Bournemouth 
+  
   - 👀 I’m interested in ...
   - 🌱 I’m currently learning ...
   - 📫 How to reach me ...
 </div>
+
 ---
 
 <!---
