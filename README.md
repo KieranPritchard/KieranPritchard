@@ -3,6 +3,7 @@
 <div>
   ### About Me:
   I am a college student, from bournemouth 
+  
   - 👋 Hi, I’m @KieranPritchard
   - 👀 I’m interested in ...
   - 🌱 I’m currently learning ...
