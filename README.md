@@ -1,5 +1,5 @@
 <div align="center">
-  
+  <img src="" alt="Photograph of me" height="100px" width="100px"/>
   <h1>Hey, Welcome to my profile.</h1>
 </div>
 
