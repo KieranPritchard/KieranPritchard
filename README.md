@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="" alt="Photograph of me" height="100px" width="100px"/>
   <h1>Hey, I'm Kieran.</h1>
 </div>
+
+I'm a college student based in Bournemouth.
 
 ---
 
