@@ -1,8 +1,10 @@
 <div align="center">
   <h1>Hey, I'm Kieran.</h1>
+  I'm a college student based in Bournemouth.
+  <div>
+    
+  </div>
 </div>
-
-I'm a college student based in Bournemouth.
 
 ---
 
