@@ -13,7 +13,7 @@
   <h3>📚 About Me:</h3>
   
   - 👀 I’m interested in ...
-  - 🌱 I’m currently learning generative A.I and digital forensics.
+  - 🌱 I’m currently learning generative A.I, SQL, and digital forensics.
   - 📫 How to reach me ...
 
 </div>
