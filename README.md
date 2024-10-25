@@ -14,7 +14,7 @@
   
   - 👀 I’m interested in ...
   - 🌱 I’m currently learning generative A.I, SQL, and digital forensics.
-  - 📫 How to reach me ...
+  - 📫 How you can reach me: sorry to say but you cant at the moment but in time you will.
 
 </div>
 
