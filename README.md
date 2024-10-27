@@ -1,9 +1,6 @@
 <div align="center">
   <h1>👋 Hey, I'm Kieran.</h1>
   I'm a college student based in Bournemouth.
-  <div>
-    
-  </div>
 </div>
 
 ---
@@ -12,8 +9,8 @@
   
   <h3>📚 About Me:</h3>
   
-  - 👀 I’m interested in ...
-  - 🌱 I’m currently learning generative A.I, SQL, and digital forensics.
+  - 🧰 I'm currently working on getting all my code projects from the last year on here.
+  - 🌱 I’m currently learning: Generative A.I, SQL, and Digital forensics.
   - 📫 How you can reach me: sorry to say but you cant at the moment but in time you will.
 
 </div>
