@@ -9,7 +9,7 @@
   
   <h3>📚 About Me:</h3>
   
-  - 🧰 I'm currently working on getting all my code projects from the last year on here.
+  - 🛠️ I'm currently working on getting all my code projects from the last year on here.
   - 🌱 I’m currently learning: Generative A.I, SQL, and Digital forensics.
   - 📫 How you can reach me: sorry to say but you cant at the moment but in time you will.
 
