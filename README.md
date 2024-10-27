@@ -35,6 +35,10 @@
 
 <h3>📊 My Stats:</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KieranPritchard&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KieranPritchard&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 <!---
