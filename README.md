@@ -1,5 +1,12 @@
 <div align="center">
-  <h1>👋 Hey, I'm Kieran.</h1>
+  
+  # 👋 Hey, I'm Kieran.
+
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KieranPritchard/KieranPritchard">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/KieranPritchard">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/KieranPritchard">
+  <img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=KieranPritchard&color=green">
+
   I'm a college student based in Bournemouth.
 </div>
 
@@ -7,7 +14,7 @@
 
 <div>
   
-  <h3>📚 About Me:</h3>
+  ### 📚 About Me:
   
   - 🛠️ I'm currently working on getting all my code projects from the last year on here.
   - 🌱 I’m currently learning: Generative A.I, SQL, and Digital forensics.
@@ -18,7 +25,9 @@
 ---
 
 <div>
-  <h3>🧰 Languauges & Tools:</h3>
+  
+  ### 🧰 Languauges & Tools:
+  
   <div>
     <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" title="Python" alt="Python" height="50px" width="50px"/>
     <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-plain-wordmark.svg?plain=1" title="HTML" alt="HTML" height="50px" width="50px"/>
@@ -30,7 +39,7 @@
 
 ---
 
-<h3>📊 My Stats:</h3>
+### 📊 My Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KieranPritchard&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
