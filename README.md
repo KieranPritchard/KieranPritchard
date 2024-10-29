@@ -7,7 +7,7 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/KieranPritchard">
   <img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=KieranPritchard&color=green">
 
-  I'm a college student based in Bournemouth.
+  I'm a college student based in England.
 </div>
 
 ---
