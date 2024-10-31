@@ -8,6 +8,7 @@
   <img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=KieranPritchard&color=green">
 
   I'm a college student based in England.
+
 </div>
 
 ---
@@ -41,7 +42,7 @@
 
 ### 📊 My Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KieranPritchard&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KieranPritchard&show_icons=true&theme=holi)](https://github.com/anuraghazra/  github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KieranPritchard&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
