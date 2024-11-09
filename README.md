@@ -7,40 +7,31 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/KieranPritchard">
   <img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=KieranPritchard&color=green">
 
-  I'm a college student based in England.
-
 </div>
 
 ---
-
-<div>
   
-  ### 📚 About Me:
+## 📚 About Me:
   
-  - 🛠️ I'm currently working on getting all my code projects from the last year on here.
-  - 🌱 I’m currently learning: Generative A.I, SQL, and Digital forensics.
-  - 📫 How you can reach me: sorry to say but you cant at the moment but in time you will.
-
-</div>
+  - 🛠️ **Currently working on:** Uploading all my projects from the past year.
+  - 🌱 **Currently learning:** Generative A.I, SQL, and Digital forensics.
+  - 📫 **How to reach me:** Contact is not availble yet, but keep checking for updates .
 
 ---
 
-<div>
+## 🧰 Languauges & Tools:
   
-  ### 🧰 Languauges & Tools:
-  
-  <div>
+  <div align ="center">
     <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" title="Python" alt="Python" height="50px" width="50px"/>
     <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-plain-wordmark.svg?plain=1" title="HTML" alt="HTML" height="50px" width="50px"/>
     <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original-wordmark.svg?plain=1" title="CSS" alt="CSS" height="50px" width="50px"/>
     <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="50px" width="50px"/>
     <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" height="50px" width="50px"/>
   </div>
-</div>
 
 ---
 
-### 📊 My Stats:
+## 📊 My Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KieranPritchard&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
