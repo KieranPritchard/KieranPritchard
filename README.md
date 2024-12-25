@@ -13,8 +13,8 @@
   
 ## 📚 About Me:
   
-  - 🛠️ **Currently working on:** Uploading all my projects from the past year.
-  - 🌱 **Currently learning:** Generative A.I, SQL, and Digital forensics.
+  - 🛠️ **Currently working on:** Projects to improve procienty in C++ and Javascript.
+  - 🌱 **Currently learning:** CI/CD Piplines & Devlopment, SQL, Node.JS and other frameworks.
   - 📫 **How to reach me:** Contact is not availble yet, but keep checking for updates .
 
 ---
@@ -27,6 +27,7 @@
     <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original-wordmark.svg?plain=1" title="CSS" alt="CSS" height="50px" width="50px"/>
     <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="50px" width="50px"/>
     <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" height="50px" width="50px"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" height="50px" width="50px">
   </div>
 
 ---
