@@ -34,9 +34,22 @@
 
 ## 📊 My Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KieranPritchard&show_icons=true&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KieranPritchard&show_icons=true&theme=holi">
+    <img src="https://github-readme-stats.vercel.app/api?username=KieranPritchard&show_icons=true&theme=default" alt="GitHub Stats">
+  </picture>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KieranPritchard&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <picture>
+    <!-- Dark Mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KieranPritchard&theme=holi">
+    <!-- Light Mode -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KieranPritchard&theme=holi" alt="Top Languages">
+  </picture>
+</p>
+
 
 ---
 
