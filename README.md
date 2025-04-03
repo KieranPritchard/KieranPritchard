@@ -14,7 +14,7 @@
 ## 📚 About Me:
   
   - 🛠️ **Currently working on:** Projects to improve procienty in C++ and Javascript.
-  - 🌱 **Currently learning:** CI/CD Piplines & Devlopment, SQL, Node.JS and other frameworks.
+  - 🌱 **Currently learning:** SQL, cyber security, and ethical hacking.
   - 📫 **How to reach me:** Contact is not availble yet, but keep checking for updates .
 
 ---
