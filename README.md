@@ -1,5 +1,8 @@
 <div align="center">
   
+  ![My Banner Image](https://github.com/user-attachments/assets/c5448b9d-07b7-41c8-83e9-90bf9e09aa5c)
+
+  
   # 👋 Hey, I'm Kieran.
 
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/KieranPritchard/KieranPritchard">
