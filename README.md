@@ -16,9 +16,9 @@
   
 ## 📚 About Me:
   
-  - 🛠️ **Currently working on:** Projects to improve procienty in C++ and Javascript.
-  - 🌱 **Currently learning:** SQL, cyber security, and ethical hacking.
-  - 📫 **How to reach me:** Contact is not availble yet, but keep checking for updates .
+  - 🛠️ **Currently working on:** Building a dashboard in react to host all my CTF right-ups.
+  - 🌱 **Currently learning:** Currently focusing on college.
+  - 📫 **How to reach me:** Contact is not availble yet, but keep checking for updates.
 
 ---
 
