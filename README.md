@@ -16,7 +16,7 @@
   
 ## 📚 About Me:
   
-  - 🛠️ **Currently working on:** Building a dashboard in react to host all my CTF right-ups.
+  - 🛠️ **Currently working on:** Building a dashboard to host all my CTF right-ups.
   - 🌱 **Currently learning:** Currently focusing on college.
   - 📫 **How to reach me:** Contact is not availble yet, but keep checking for updates.
 
