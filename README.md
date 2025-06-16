@@ -16,7 +16,7 @@
   
 ## 📚 About Me:
   
-  - 🛠️ **Currently working on:** Updating my portfolio website.
+  - 🛠️ **Currently working on:** Currently focusing on college work.
   - 🌱 **Currently learning:** Currently focusing on college.
   - 📫 **How to reach me:** Contact is not availble yet, but keep checking for updates.
 
