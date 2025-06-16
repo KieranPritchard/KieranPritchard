@@ -16,7 +16,7 @@
   
 ## 📚 About Me:
   
-  - 🛠️ **Currently working on:** Building a dashboard to host all my CTF right-ups.
+  - 🛠️ **Currently working on:** Updating my portfolio website.
   - 🌱 **Currently learning:** Currently focusing on college.
   - 📫 **How to reach me:** Contact is not availble yet, but keep checking for updates.
 
@@ -54,7 +54,7 @@
     <!-- Dark Mode -->
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KieranPritchard&theme=holi">
     <!-- Light Mode -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KieranPritchard&theme=holi" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KieranPritchard&theme=default" alt="Top Languages">
   </picture>
 </p>
 
