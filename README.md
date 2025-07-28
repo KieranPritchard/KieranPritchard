@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![My Banner Image](https://github.com/user-attachments/assets/c5448b9d-07b7-41c8-83e9-90bf9e09aa5c)
+  ![My Banner Image](Banner_Image.jpg)
 
   
   # 👋 Hey, I'm Kieran.
