@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![My Banner Image](Banner_Image.jpg)
+  <img src="Banner_Image.jpg" width=85% height=auto>
 
   
   # 👋 Hey, I'm Kieran.
