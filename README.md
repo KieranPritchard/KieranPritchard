@@ -42,22 +42,19 @@
 
 ## 📊 My Stats:
 
-<p>
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KieranPritchard&show_icons=true&theme=holi">
     <img src="https://github-readme-stats.vercel.app/api?username=KieranPritchard&show_icons=true&theme=default" alt="GitHub Stats">
   </picture>
-</p>
+</div>
 
-<p>
-  <picture>
-    <!-- Dark Mode -->
+<div align="center">
+ <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KieranPritchard&theme=holi">
-    <!-- Light Mode -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KieranPritchard&theme=default" alt="Top Languages">
   </picture>
-</p>
-
+</div>
 
 ---
 
