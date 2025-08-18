@@ -13,15 +13,15 @@
   
 ## 📚 About Me:
 
-- 🎓 **Currently studying:** Nothing at the moment due to waiting for my new course to start.  
-- 🛠️ **Building projects with:** React, Node.js, HTML, CSS, Javascript, Python, and C++.  
-- 🌱 **Learning:** Strengthing my python and C++ for my interest in cyber security.
-- 💡 **Interests:** Ethical Hacking, A.I, and programming 
-- 📫 **Reach me at:** [Portfolio](your-portfolio-link) • [LinkedIn](your-linkedin-link) • [GitHub](your-github-link)
+- 🎓 **Currently preparing for:** My upcoming course by self-studying and building projects.  
+- 🛠️ **Building projects with:** React, Node.js, HTML, CSS, JavaScript, Python, and C++.  
+- 🌱 **Learning:** Strengthening my Python and C++ skills, with a growing interest in cybersecurity.  
+- 💡 **Interests:** Ethical hacking, artificial intelligence, and programming in general.  
+- 📫 **Reach me at:** [Portfolio](https://kieranpritchard.github.io/Kieran-Pritchard-Portfolio/) • [LinkedIn](https://www.linkedin.com/in/kieran-pritchard/) • [GitHub](https://github.com/KieranPritchard)
 
 ### ⚡ Fun Facts About Me  
-- 🎮 Gamer at heart (currently undertaking the task of completing The Legend Of Zelda Tears of The Kingdom in its entirity).  
-- 📚 Lifelong learner — currently exploring cloud computing and a miriad of things.
+- 🎮 Gamer at heart (currently on a quest to complete *The Legend of Zelda: Tears of the Kingdom* in its entirety).  
+- 📚 Lifelong learner — currently exploring cloud computing and a myriad of other tech topics.  
 
 ### 🎨 Beyond Code  
 - 🎶 Music keeps me focused. My go-tos include: Sleep Token, Linkin Park, Evanescence, Depeche Mode, Panic! at the Disco, Fall Out Boy, My Chemical Romance, Paramore, Halsey, and The Cure.  
