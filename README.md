@@ -1,6 +1,5 @@
 <div align="center">
   
-  <img src="Banner_Image.jpg" width=85% height=auto>
 
   
   # 👋 Hey, I'm Kieran.
