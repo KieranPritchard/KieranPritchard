@@ -28,12 +28,6 @@
 - 📺 Favorite TV shows: Doctor Who, Torchwood, Dexter, American Horror Story, and Pokémon.  
 - 📷 Enjoy capturing scenery photography in my free time.  
 
-### 🧑‍💻 My Coding Philosophy  
-- 🧹 Clean, maintainable code > quick hacks or copy-pasting AI snippets.  
-- 🤝 Clear communication is key when building projects and collaborating.  
-- 🚀 Build things that solve real problems.  
-- 🌱 Always improving — every project is a chance to learn something new.
-
 ### 🏆 Highlights  
 - 🎓 Earned a Merit in the Bebras Computing Challenge at college (2025).  
 - 🌐 Built my first portfolio website from scratch using HTML, CSS, JavaScript, and Bootstrap, going beyond the assignment requirements.  
