@@ -16,7 +16,6 @@
 - 🛠️ **Building projects with:** React, Node.js, HTML, CSS, JavaScript, Python, and C++.  
 - 🌱 **Learning:** Strengthening my Python and C++ skills, with a growing interest in cybersecurity.  
 - 💡 **Interests:** Ethical hacking, artificial intelligence, and programming in general.  
-- 📫 **Reach me at:** [Portfolio](https://kieranpritchard.github.io/Kieran-Pritchard-Portfolio/) • [LinkedIn](https://www.linkedin.com/in/kieran-pritchard/) • [GitHub](https://github.com/KieranPritchard)
 
 ### ⚡ Fun Facts About Me  
 - 🎮 Gamer at heart (currently on a quest to complete *The Legend of Zelda: Tears of the Kingdom* in its entirety).  
