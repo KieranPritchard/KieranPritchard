@@ -1,6 +1,8 @@
 <div align="center">
   
-
+  <img src="/Banner_Image.png">
+  
+  <small>Image Generated With Google Gemini</small>
   
   # 👋 Hey, I'm Kieran.
 
