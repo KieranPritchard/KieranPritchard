@@ -20,8 +20,8 @@
 - 💡 **Interests:** Ethical hacking, artificial intelligence, and programming in general.  
 
 ### ⚡ Fun Facts About Me  
-- 🎮 Gamer at heart (currently on a quest to complete *The Legend of Zelda: Tears of the Kingdom* in its entirety).  
-- 📚 Lifelong learner — currently exploring cloud computing and a myriad of other tech topics.  
+- 🎮 Gamer at heart (currently on a quest to complete *Metroid Prime Trilogy* in preparation of Metroid Prime 4 coming soon).  
+- 📚 Lifelong learner — currently exploring Cisco Networking Academy to get a couple indrustry certifications.  
 
 ### 🎨 Beyond Code  
 - 🎶 Music keeps me focused. My go-tos include: Sleep Token, Linkin Park, Evanescence, Depeche Mode, Panic! at the Disco, Fall Out Boy, My Chemical Romance, Paramore, Halsey, and The Cure.  
