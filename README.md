@@ -26,7 +26,7 @@
 ### 🎨 Beyond Code  
 - 🎶 Music keeps me focused. My go-tos include: Sleep Token, Linkin Park, Evanescence, Depeche Mode, Panic! at the Disco, Fall Out Boy, My Chemical Romance, Paramore, Halsey, and The Cure.  
 - 🎬 Always up for a good sci-fi, horror, or mystery movie.  
-- 📺 Favorite TV shows: Doctor Who, Torchwood, Dexter, American Horror Story, Futurama, Hazbin Hotel, and Pokémon.  
+- 📺 Favorite TV shows: Doctor Who, Torchwood, Dexter, American Horror Story, Futurama, Helluva Boss, and Pokémon.  
 - 📷 Enjoy capturing scenery photography in my free time.  
 
 ### 🏆 Highlights  
