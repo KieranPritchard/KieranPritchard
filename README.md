@@ -14,7 +14,7 @@
   
 ## 📚 About Me:
 
-- 🎓 **Currently preparing for:** My upcoming course by self-studying and building projects.  
+- 🎓 **Currently preparing for:** Nothing much other then focusing on my course
 - 🛠️ **Building projects with:** React, Node.js, HTML, CSS, JavaScript, Python, and C++.  
 - 🌱 **Learning:** Strengthening my Python and C++ skills, with a growing interest in cybersecurity.  
 - 💡 **Interests:** Ethical hacking, artificial intelligence, and programming in general.  
