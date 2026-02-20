@@ -35,7 +35,7 @@
 
 ---
 
-## 🧰 Languauges & Tools:
+## 🧰 Languages & Tools:
   
   <div align ="center">
     <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" title="Python" alt="Python" height="50px" width="50px"/>
