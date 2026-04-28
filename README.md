@@ -1,8 +1,8 @@
 <div align="center">
   
-  <img src="/Banner_Image.png">
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/415771c4-4cda-4569-a9ce-e307306a0c3f" />
   
-  <small>Image Generated With Google Gemini</small>
+  <small>Image from (https://uk.pinterest.com/pin/29132728833026806/)</small>
   
   # 👋 Hey, I'm Kieran.
 
