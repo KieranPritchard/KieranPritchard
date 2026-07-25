@@ -36,7 +36,7 @@
 Go-tos: Bad Omens, Marilyn Manson, Panic! at the Disco, Halsey.
 
 ### 🏆 Highlights
-- 🏅 Distinction–Distinction* on my T Level coursework, Merit in the Bebras Computational Thinking Challenge
+- 🏅 Distinction–Distinction* on my T Level Foundation in Digital coursework, Merit in the Bebras Computational Thinking Challenge
 - 🎖️ BPC Empathy Award
 - 🌐 Built and shipped my own portfolio site from scratch (Next.js, Tailwind, shadcn/ui)
 
