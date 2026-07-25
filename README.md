@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="1500" height="500" alt="X banner" src="https://github.com/user-attachments/assets/8afb2531-563b-4429-9019-ec96af208c08" />
+  <img width="1500" height="500" alt="X banner" src="https://github.com/KieranPritchard/KieranPritchard/blob/main/X%20banner.png" />
 
 
   # 👋 Hey, I'm Kieran.
