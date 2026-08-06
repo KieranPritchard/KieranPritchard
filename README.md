@@ -3,14 +3,14 @@
   <img width="1500" height="500" alt="X banner" src="https://github.com/KieranPritchard/KieranPritchard/blob/main/Git%20banner.png" />
 
 
-  # 👋 Hey, I'm Kieran.
+# 👋 Hey, I'm Kieran.
 
-  I'm a T Level Digital Software Development student at Bournemouth and Poole College, currently working as a 1st Line IT Support Assistant. I build things across the stack — from security tooling in Go to full web apps in Next.js — and I'm putting a lot of that work through CTFs and write-ups as I go.
+Most developers only ever see one side of security. I build software and study how to break it, which means I write code with a much clearer sense of where it'd actually fail. That shows up across the stack: security tooling in Go and Python, full web apps in Next.js, and a growing set of CTF write-ups as I put the theory to the test. Currently a T Level Digital Software Development student at Bournemouth & Poole College, working as 1st Line IT Support alongside it.
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-kpritchard.co.uk-38BDF8?style=flat-square)](https://kpritchard.co.uk)
-  [![CTF Portfolio](https://img.shields.io/badge/CTF%20Writeups-ctf--portfolio-black?style=flat-square)](https://ctf-portfolio-brown.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square)](https://linkedin.com)
-  [![X](https://img.shields.io/badge/X-@overf10w__0x-black?style=flat-square)](https://x.com/overf10w_0x)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kpritchard.co.uk-38BDF8?style=flat-square)](https://kpritchard.co.uk)
+[![CTF Portfolio](https://img.shields.io/badge/CTF%20Writeups-ctf--portfolio-black?style=flat-square)](https://ctf-portfolio-brown.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square)](https://linkedin.com/in/YOUR-HANDLE)
+[![X](https://img.shields.io/badge/X-@overf10w__0x-black?style=flat-square)](https://x.com/overf10w_0x)
 
 </div>
 
