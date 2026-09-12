@@ -9,8 +9,8 @@ Most developers only ever see one side of security. I build software and study h
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kpritchard.co.uk-38BDF8?style=flat-square)](https://kpritchard.co.uk)
 [![CTF Portfolio](https://img.shields.io/badge/CTF%20Writeups-ctf--portfolio-black?style=flat-square)](https://ctf-portfolio-brown.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square)](https://linkedin.com/in/YOUR-HANDLE)
-[![X](https://img.shields.io/badge/X-@overf10w__0x-black?style=flat-square)](https://x.com/overf10w_0x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square)](https://linkedin.com/in/kieran-pritchard)
+[![X](https://img.shields.io/badge/X-@overf10w__0x-black?style=flat-square)](https://x.com/Overf10w_0x)
 
 </div>
 
