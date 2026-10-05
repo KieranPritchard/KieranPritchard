@@ -19,10 +19,10 @@ Most developers only ever see one side of security. I build software and study h
 ## 📚 About Me
 
 - 🎓 Studying a T Level in Digital Software Development at Bournemouth and Poole College
-- 💼 Working as a 1st Line IT Support Assistant
+- 💼 Worked as a 1st Line IT Support Assistant, hoping to find more work in IT support soon.
 - 🔐 Building offensive security tooling and working through CTFs, with 13 TryHackMe write-ups published so far
-- 🛠️ Currently building: **GhostGate** (a Go-based security CLI, v1.1 nearing completion)
-- 🌱 Learning: strengthening my PHP through college coursework, including building a full CRUD library management system
+- 🛠️ Currently building: PHP projects at college with more modern security-focused tools, using it at night
+- 🌱 Learning: strengthening my PHP through college coursework for exams and preparing to go into the world of work.
 
 ### ⚡ Fun Facts About Me
 - 🎮 Gamer at heart, always got some form of Pokémon on the go
