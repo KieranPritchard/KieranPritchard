@@ -47,6 +47,8 @@ Go-tos: Bad Omens, Marilyn Manson, Panic! at the Disco, Halsey.
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" title="Python" alt="Python" height="50px" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="50px" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" height="50px" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" height="50px" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" height="50px" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" height="50px" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" height="50px" width="50px"/>
@@ -57,6 +59,8 @@ Go-tos: Bad Omens, Marilyn Manson, Panic! at the Disco, Halsey.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" height="50px" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" height="50px" width="50px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" height="50px" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" height="50px" width="50px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain.svg" title="Github Actions" alt="Github Actions" height="50px" width="50px"/>
 </div>
 
 ---
