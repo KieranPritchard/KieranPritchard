@@ -1,9 +1,6 @@
 <div align="center">
 
-  <img width="1500" height="500" alt="X banner" src="https://github.com/KieranPritchard/KieranPritchard/blob/main/Git%20banner.png" />
-
-
-# 👋 Hey, I'm Kieran.
+  <img  alt="Github Banner" src="./assets/aurora-hero.svg" />
 
 Most developers only ever see one side of security. I build software and study how to break it, which means I write code with a much clearer sense of where it'd actually fail. That shows up across the stack: security tooling in Go and Python, full web apps in Next.js, and a growing set of CTF write-ups as I put the theory to the test. Currently a T Level Digital Software Development student at Bournemouth & Poole College, working as 1st Line IT Support alongside it.
 
