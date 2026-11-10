@@ -67,6 +67,10 @@ Go-tos: Bad Omens, Marilyn Manson, Panic! at the Disco, Halsey.
 
 ## 📊 My Stats
 
+<p align="center">
+  <img src="./assets/voronoi-territory.svg" alt="{{Kieran Pritchard}} — languages by area" width="100%" />
+</p>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=KieranPritchard&show_icons=true&theme=holi">
